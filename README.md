@@ -5,4 +5,4 @@
   </a>
 </p>
 
-![miocod snake gif](https://github.com/miocod/miocod/blob/output/github-contribution-grid-snake.gif)
+![miocod snake gif](https://github.com/miocod/miocod/blob/output/github-contribution-grid-snake.svg)
