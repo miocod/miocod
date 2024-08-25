@@ -4,3 +4,4 @@
     <img src="https://skillicons.dev/icons?i=java,html,css,js,androidstudio,py,ps,pr,php,solidity,vscode,bizagi" />
   </a>
 </p>
+!https://github.com/miocod/miocod/blob/output/github-contribution-grid-snake.gif
